@@ -40,6 +40,9 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 # Run Powershell script to create 1000 users in Active Directory.
 https://github.com/joshmadakor1/AD_PS
 
+![image](https://github.com/user-attachments/assets/cfb4b417-0dd9-40a2-8d6a-928c6313c4a8)
+
+
 # Create a new vm named "Client" and install Windows 10.
 
 # Connect the client machine to the private network and join it to the domain.
