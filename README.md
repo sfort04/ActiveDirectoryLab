@@ -38,6 +38,7 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 
 # Run Powershell script to create 1000 users in Active Directory.
+https://github.com/sfort04/ActiveDirectoryLab/blob/main/PowershellScriptUserCreation
 
 # Create a new vm named "Client" and install Windows 10.
 
