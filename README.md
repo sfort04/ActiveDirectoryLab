@@ -18,6 +18,7 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 
 # Install Server 2022 on the vm and assign an IP address for the internal network.
+![image](https://github.com/user-attachments/assets/4a042dd4-1d78-444f-9d67-e2e6e83530df)
 
 
 # Name the server and install Active Directory to create the domain.
