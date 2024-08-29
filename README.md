@@ -58,3 +58,5 @@ https://github.com/joshmadakor1/AD_PS
 
 
 # Log into the client machine with a domain account.
+![image](https://github.com/user-attachments/assets/462ee3a8-9482-4215-84e3-3bbb92a592a9)
+
