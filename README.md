@@ -6,10 +6,9 @@ This contains steps on how I set up a basic home lab running Active Directory.
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 # Download Windows 10 and Windows 2022 ISO files.
+[Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
-https://www.microsoft.com/en-us/software-download/windows10ISO
-
-https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+[Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
 # Create a new virtual machine by clicking on "New" in VirtualBox, naming it "Domain Controller" and selecting the "Windows Server 2022" ISO file as the boot media.
 
@@ -38,7 +37,7 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 
 # Run Powershell script to create 1000 users in Active Directory.
-https://github.com/joshmadakor1/AD_PS
+[Powershell Script](https://github.com/joshmadakor1/AD_PS)
 
 ![image](https://github.com/user-attachments/assets/cfb4b417-0dd9-40a2-8d6a-928c6313c4a8)
 ![image](https://github.com/user-attachments/assets/73cb9253-7b06-4ccc-87bc-3676904afc52)
