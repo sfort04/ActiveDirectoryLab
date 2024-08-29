@@ -22,6 +22,7 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 
 # Name the server and install Active Directory to create the domain.
+![image](https://github.com/user-attachments/assets/895fb219-e7b5-4e0a-8f07-81801c264ff4)
 
 # Configuring routing so that clients on the private network can access the internet through the domain controller.
 
