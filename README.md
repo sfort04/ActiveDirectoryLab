@@ -49,6 +49,7 @@ https://github.com/joshmadakor1/AD_PS
 
 # Connect the client machine to the private network and join it to the domain.
 ![image](https://github.com/user-attachments/assets/bae1ef91-f588-4b6f-9d76-9d75b96eb48b)
+![image](https://github.com/user-attachments/assets/d9925b2c-ad15-4e77-9cfb-f8ff31ada9dd)
 
 
 # Verify connection to Internet and Domain Controller by using ping.
