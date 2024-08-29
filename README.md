@@ -32,6 +32,8 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 ![image](https://github.com/user-attachments/assets/d1b53f0d-a63d-4e8a-8558-e0023d1ae34e)
 
 # Set up DHCP on the domain controller.
+![image](https://github.com/user-attachments/assets/c8222b70-1d43-4a2e-bd7c-35ea3e3be1bb)
+
 
 # Run Powershell script to create 1000 users in Active Directory.
 
