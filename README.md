@@ -3,7 +3,7 @@
 This contains steps on how I set up a basic home lab running Active Directory.
 
 # Download and install Oracle VirtualBox
-https://www.virtualbox.org/wiki/Downloads'
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 # Download Windows 10 and Windows 2022 ISO files.
 
