@@ -41,6 +41,8 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 https://github.com/joshmadakor1/AD_PS
 
 ![image](https://github.com/user-attachments/assets/cfb4b417-0dd9-40a2-8d6a-928c6313c4a8)
+![image](https://github.com/user-attachments/assets/73cb9253-7b06-4ccc-87bc-3676904afc52)
+
 
 
 # Create a new vm named "Client" and install Windows 10.
