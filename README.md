@@ -27,6 +27,7 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 
 # Configuring routing so that clients on the private network can access the internet through the domain controller.
+![image](https://github.com/user-attachments/assets/d1b53f0d-a63d-4e8a-8558-e0023d1ae34e)
 
 # Set up DHCP on the domain controller.
 
