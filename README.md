@@ -48,6 +48,8 @@ https://github.com/joshmadakor1/AD_PS
 # Create a new vm named "Client" and install Windows 10.
 
 # Connect the client machine to the private network and join it to the domain.
+![image](https://github.com/user-attachments/assets/bae1ef91-f588-4b6f-9d76-9d75b96eb48b)
+
 
 # Verify connection to Internet and Domain Controller by using ping.
 
