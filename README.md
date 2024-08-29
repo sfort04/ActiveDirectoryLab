@@ -53,5 +53,7 @@ https://github.com/joshmadakor1/AD_PS
 
 
 # Verify connection to Internet and Domain Controller by using ping.
+![image](https://github.com/user-attachments/assets/b6bb01ec-124f-4ff7-a631-a46b5d586c81)
+
 
 # Log into the client machine with a domain account.
