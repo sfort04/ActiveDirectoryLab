@@ -14,6 +14,7 @@ This contains steps on how I set up a basic home lab running Active Directory.
 
 
 # Configure the vm by giving it two network adapters: one for connecting to the internet and one for the private network.
+![image](https://github.com/user-attachments/assets/04ca05f6-f6d8-4f7d-a7f6-02f603b3b061)
 
 
 # Install Server 2022 on the vm and assign an IP address for the internal network.
