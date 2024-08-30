@@ -48,6 +48,7 @@ This contains steps on how I set up a basic home lab running Active Directory.
 
 
 # Create a new vm named "Client" and install Windows 10.
+![image](https://github.com/user-attachments/assets/aeacc4bb-2f12-496b-aeae-3d3647420995)
 
 # Connect the client machine to the private network and join it to the domain.
 ![image](https://github.com/user-attachments/assets/bae1ef91-f588-4b6f-9d76-9d75b96eb48b)
