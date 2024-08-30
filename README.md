@@ -11,6 +11,7 @@ This contains steps on how I set up a basic home lab running Active Directory.
 [Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 
 # Create a new virtual machine by clicking on "New" in VirtualBox, naming it "Domain Controller" and selecting the "Windows Server 2022" ISO file as the boot media.
+![image](https://github.com/user-attachments/assets/97bcf9c0-6b43-45e3-9a60-6d8bc558f3ed)
 
 
 # Configure the vm by giving it two network adapters: one for connecting to the internet and one for the private network.
